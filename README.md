@@ -1,11 +1,35 @@
-- 👋 Hi, I’m @Ronaldo-Rocha
-- 👀 I’m interested in front and back end development
-- 🌱 I’m currently learning HTML5, CSS3, JavaScript, React.
-- 
-- 💞️ I’m looking to collaborate on ❌
+## Olá, sou o Chrono 😌✨
+Interessado em tecnologia desde 2004 🧑‍💻 e depois de conhecer HTML5 nao parei mais de procurar sobre desenvolvimento, me interessando cada vez mais sobre Front e Back end. 
+
+
+
 - 📫 How to reach me ...
 
-<!---
-Ronaldo-Rocha/Ronaldo-Rocha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+    <a href="https://github.com/ronaldo-rocha">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronaldo-rocha&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo-rocha&layout=compact&langs_count=16&theme=midnight-purple"/>
+      </a>
+</div>
+
+##
+
+
+- 📚 Conhecimentos em :
+  <img  alt="chr-HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> 
+  <img  alt="chr-HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/> 
+  <img  alt="chr-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> <br>
+- 📖 Conhecimentos básicos em :
+  <img align="center" alt="chr-HTML5" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">       <img align="center" alt="chr-HTML5" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
+  <img align="center" alt="chr-HTML5" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+    
+
+
+
+##
+
+- 🌱 atualmente aprimorando HTML5, CSS3, JavaScript e conhecendo ReactJs.
+
+##
+
+![Snake animation](https://github.com/ronaldo-rocha/ronaldo-rocha/blob/output/git-contribution-grid-snake.svg)
