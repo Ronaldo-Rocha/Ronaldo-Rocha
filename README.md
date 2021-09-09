@@ -32,4 +32,4 @@ Interessado em tecnologia desde 2004 🧑‍💻 e depois de conhecer HTML5 nao 
 
 ##
 
-![Snake animation](https://github.com/ronaldo-rocha/ronaldo-rocha/blob/output/git-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ronaldo-rocha/ronaldo-rocha/blob/output/github-contribution-grid-snake.svg)
