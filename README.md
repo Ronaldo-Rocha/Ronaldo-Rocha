@@ -21,10 +21,7 @@ Interessado em tecnologia desde 2004 🧑‍💻 e depois de conhecer HTML5 nao 
   <img  alt="chr-HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> 
   <img  alt="chr-HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/> 
   <img  alt="chr-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> <br>
-- 📖 Conhecimentos básicos em :
-  <img align="center" alt="chr-HTML5" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="chr-HTML5" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
-  <img align="center" alt="chr-HTML5" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+
   
     
 
