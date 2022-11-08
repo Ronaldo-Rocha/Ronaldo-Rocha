@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Interessado em tecnologia desde 2004 e desenvolvimento desde 2019 e cada vez mais sobre Front-end.<br>🔭 Atualmente estou trabalhando como Freelancer<br>👯 Procuro colaborar em projetos front-end<br>🤝 a procura do prrimeiro emprego na área<br>🌱 atualmente aprimorando HTML5, CSS3, JavaScript e conhecendo Bootstrap/Jquery.<br>💬 Pergunte-me sobre o tempo 😏
+💻 Interessado em tecnologia desde 2004 e desenvolvimento desde 2018 e cada vez mais sobre Front-end.<br>🔭 Atualmente estou trabalhando como Freelancer<br>👯 Procuro colaborar em projetos front-end<br>🤝 a procura do primeiro emprego na área<br>🌱 atualmente aprimorando HTML5, CSS3, JavaScript e conhecendo Bootstrap/Jquery.<br>💬 Pergunte-me sobre o tempo ⏳
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@
 
 ### ✍️ Citação de desenvolvedor aleatório 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Meme de desenvolvedor aleatório
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ronaldo-Rocha&icon=2&color=6)](https://visitcount.itsvg.in)
